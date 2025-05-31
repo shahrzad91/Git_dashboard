@@ -1,0 +1,227 @@
+[
+  {
+    "_id": "683b290df0635b39a3a21151",
+    "index": 0,
+    "guid": "739b3a3d-8fbb-4d16-9865-7e2c8aff4855",
+    "isActive": false,
+    "balance": "$3,201.23",
+    "picture": "http://placehold.it/32x32",
+    "age": 34,
+    "eyeColor": "green",
+    "name": "Nichols Galloway",
+    "gender": "male",
+    "company": "BUGSALL",
+    "email": "nicholsgalloway@bugsall.com",
+    "phone": "+1 (876) 489-2600",
+    "address": "514 Aurelia Court, Alleghenyville, Alaska, 2794",
+    "about": "Dolor officia magna qui nostrud. Dolor elit adipisicing ea reprehenderit do officia. Eiusmod minim anim ipsum laboris fugiat enim est aliquip ipsum id minim ex ullamco. Enim et dolore mollit veniam. Sint ut minim anim consectetur. Ipsum nulla esse commodo nostrud veniam reprehenderit cillum quis dolore qui officia sint cillum cupidatat. Esse adipisicing et incididunt nulla aute elit ipsum cupidatat consectetur quis dolor nostrud nisi.\r\n",
+    "registered": "2024-10-21T01:25:28 -03:00",
+    "latitude": 68.030963,
+    "longitude": 158.571849,
+    "tags": [
+      "nostrud",
+      "tempor",
+      "culpa",
+      "laborum",
+      "enim",
+      "irure",
+      "tempor"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Moses Mejia"
+      },
+      {
+        "id": 1,
+        "name": "Gardner Bradley"
+      },
+      {
+        "id": 2,
+        "name": "Hull Lancaster"
+      }
+    ],
+    "greeting": "Hello, Nichols Galloway! You have 3 unread messages.",
+    "favoriteFruit": "strawberry"
+  },
+  {
+    "_id": "683b290d5b33ec2b104c95df",
+    "index": 1,
+    "guid": "94ab1c54-3355-4edb-98f8-e502bfa0de7c",
+    "isActive": true,
+    "balance": "$2,648.10",
+    "picture": "http://placehold.it/32x32",
+    "age": 21,
+    "eyeColor": "green",
+    "name": "Hillary Palmer",
+    "gender": "female",
+    "company": "LUMBREX",
+    "email": "hillarypalmer@lumbrex.com",
+    "phone": "+1 (885) 549-3450",
+    "address": "246 Furman Avenue, Fruitdale, Wyoming, 2300",
+    "about": "Ex et ex dolor do nulla. Tempor sunt dolor occaecat do. Labore voluptate Lorem pariatur ea irure reprehenderit excepteur consequat minim aute minim. Est velit eiusmod anim exercitation eu nulla irure qui anim sit. Quis aliqua laborum labore sint.\r\n",
+    "registered": "2022-08-23T09:22:44 -03:00",
+    "latitude": -26.105334,
+    "longitude": 23.323247,
+    "tags": [
+      "laboris",
+      "mollit",
+      "quis",
+      "velit",
+      "irure",
+      "velit",
+      "ullamco"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Clayton Dennis"
+      },
+      {
+        "id": 1,
+        "name": "Oneil Tran"
+      },
+      {
+        "id": 2,
+        "name": "Alba Greer"
+      }
+    ],
+    "greeting": "Hello, Hillary Palmer! You have 8 unread messages.",
+    "favoriteFruit": "banana"
+  },
+  {
+    "_id": "683b290d7cc6feaa20c7c1eb",
+    "index": 2,
+    "guid": "aef39a57-6537-4209-8221-c95d2a6d77b9",
+    "isActive": true,
+    "balance": "$2,164.08",
+    "picture": "http://placehold.it/32x32",
+    "age": 25,
+    "eyeColor": "green",
+    "name": "Glenn Holloway",
+    "gender": "male",
+    "company": "MEDMEX",
+    "email": "glennholloway@medmex.com",
+    "phone": "+1 (915) 506-3257",
+    "address": "704 Lamont Court, Waverly, Kentucky, 2556",
+    "about": "Nostrud fugiat eiusmod commodo laboris proident sunt occaecat duis. Aute nostrud aute minim minim occaecat sint nisi do elit. Nostrud cupidatat incididunt ut qui consectetur do dolor culpa ipsum enim in aute duis consequat. Culpa eiusmod laboris enim fugiat est voluptate voluptate sit labore ullamco. Reprehenderit sunt cillum eiusmod velit. Duis adipisicing ea nisi enim aliquip do dolor aute consequat amet mollit exercitation officia.\r\n",
+    "registered": "2020-12-17T04:09:57 -02:00",
+    "latitude": -18.935383,
+    "longitude": -172.751558,
+    "tags": [
+      "ipsum",
+      "ea",
+      "non",
+      "elit",
+      "aliqua",
+      "minim",
+      "dolore"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Etta Garner"
+      },
+      {
+        "id": 1,
+        "name": "Liliana Leon"
+      },
+      {
+        "id": 2,
+        "name": "Ferrell Donovan"
+      }
+    ],
+    "greeting": "Hello, Glenn Holloway! You have 10 unread messages.",
+    "favoriteFruit": "banana"
+  },
+  {
+    "_id": "683b290d044cd4a4aad0ab4e",
+    "index": 3,
+    "guid": "cc4f6f5a-8600-48d0-8b72-a68c27006a4e",
+    "isActive": false,
+    "balance": "$2,312.93",
+    "picture": "http://placehold.it/32x32",
+    "age": 22,
+    "eyeColor": "green",
+    "name": "Mallory Merritt",
+    "gender": "female",
+    "company": "DIGIAL",
+    "email": "mallorymerritt@digial.com",
+    "phone": "+1 (876) 454-3834",
+    "address": "780 Schweikerts Walk, Orviston, Alabama, 7542",
+    "about": "Proident id laboris laboris irure qui commodo qui ut aliquip esse ipsum eu. Reprehenderit deserunt nisi sunt deserunt magna. Enim labore nisi eiusmod tempor mollit velit cupidatat duis. Minim exercitation tempor irure elit aute in esse. Reprehenderit nisi amet officia anim commodo excepteur nulla culpa in velit non. Consequat magna ea do sit commodo et nulla pariatur.\r\n",
+    "registered": "2016-11-04T06:29:57 -02:00",
+    "latitude": -58.399505,
+    "longitude": 121.430845,
+    "tags": [
+      "tempor",
+      "pariatur",
+      "duis",
+      "culpa",
+      "proident",
+      "pariatur",
+      "ad"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Riddle Crosby"
+      },
+      {
+        "id": 1,
+        "name": "Gibson Shepherd"
+      },
+      {
+        "id": 2,
+        "name": "Erin Padilla"
+      }
+    ],
+    "greeting": "Hello, Mallory Merritt! You have 3 unread messages.",
+    "favoriteFruit": "banana"
+  },
+  {
+    "_id": "683b290d55ea83942ddcc233",
+    "index": 4,
+    "guid": "4a9d85f3-6063-44a0-b17b-9059d76851d2",
+    "isActive": false,
+    "balance": "$3,476.97",
+    "picture": "http://placehold.it/32x32",
+    "age": 26,
+    "eyeColor": "green",
+    "name": "Jordan Griffith",
+    "gender": "male",
+    "company": "HOUSEDOWN",
+    "email": "jordangriffith@housedown.com",
+    "phone": "+1 (988) 488-3963",
+    "address": "737 Tapscott Street, Rote, District Of Columbia, 5324",
+    "about": "Reprehenderit exercitation dolor non fugiat aute quis excepteur enim ullamco cupidatat. Commodo proident ut velit incididunt ex. Dolore pariatur enim nisi exercitation commodo deserunt velit amet ad qui elit sit laboris duis. Eiusmod consequat non dolore ad incididunt sit consectetur cupidatat ipsum mollit deserunt. Consectetur consectetur sint magna adipisicing cillum ipsum laboris incididunt aute aute pariatur. Aliqua fugiat incididunt pariatur exercitation ad amet ex consectetur do Lorem ipsum incididunt.\r\n",
+    "registered": "2022-03-18T08:59:51 -02:00",
+    "latitude": 23.077568,
+    "longitude": 61.147744,
+    "tags": [
+      "est",
+      "labore",
+      "laborum",
+      "sit",
+      "magna",
+      "excepteur",
+      "id"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Iva Floyd"
+      },
+      {
+        "id": 1,
+        "name": "Howard Mcintyre"
+      },
+      {
+        "id": 2,
+        "name": "Kerry Dyer"
+      }
+    ],
+    "greeting": "Hello, Jordan Griffith! You have 8 unread messages.",
+    "favoriteFruit": "strawberry"
+  }
+]
